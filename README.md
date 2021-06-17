@@ -15,6 +15,7 @@ of a button.
     - Start docker
     - Open page in browser
 1. Connect/disconnect to and from the VPN / show VPN status button
+1. "Open app" action, bring to front option if pressed twice / hold?   
 1. Toggle between regular Streamdeck setup and bespoke?
     - StreamDeck to Custom - Open start script (kill parent and then start new)
     - Custom to Streamdeck - Kill custom and start parent
